@@ -1,0 +1,2 @@
+Conteudo da Aula:
+Hoje os alunos vão continuar a aplicar manipulações na DOM no site do faustão
