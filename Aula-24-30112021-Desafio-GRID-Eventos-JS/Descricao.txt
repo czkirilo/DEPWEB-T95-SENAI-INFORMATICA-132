@@ -1,0 +1,2 @@
+Conteudo da Aula:
+Na aula de hoje iremos reforçar o que foi aprendido nas ultimas aulas e desenvolver um desafio que utilize GRID layout e Eventos do JS
