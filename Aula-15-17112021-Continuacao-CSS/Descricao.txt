@@ -1,0 +1,31 @@
+Conteudo da Aula:
+Na presente aula os alunos continuarão a aprender sobre a estrutura do CSS e como ela interfere nas tags do HTML
+
+
+- Exercício Faustolovers (como modelo) - Criar um de sua escolha p/ um artista ou grupo.
+- Fazer em Grupo c/ 3 Alunos
+- HTML 
+- utilizar tabelas;
+- listas ordenadas;
+- listas não ordenadas;
+- imagens;
+- utilizar div´s
+- links internos e externos
+- lista de links
+- âncora
+- rodapés
+- CSS 
+- Utilizar CSS em arquivo externo (ao menos uma página usando css interno);
+- Estilizar Fontes;
+- Estilizar Cores;
+- Utilizar o conceito de class;
+
+
+Desafio - 
+- Inserir vídeos;
+
+
+- Qtde. Mínima de Páginas =  8 páginas.
+
+
+Obs.: Com a utilização do CSS, as páginas devem possuir um visual melhor elaborado em relação aos trabalhos anteriores, portanto deve ficar "BONITO".
